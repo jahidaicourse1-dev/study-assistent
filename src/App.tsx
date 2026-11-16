@@ -97,7 +97,7 @@ export default function App() {
           <div className="space-y-1">
             <div className="flex items-center gap-2">
               <img
-                src="/assets/aistudio/logo_20b7252e.png"
+                src="./assets/aistudio/logo_20b7252e.png"
                 alt=""
                 aria-hidden="true"
                 width={20}
