@@ -1,0 +1,8 @@
+{
+  "name": "EduGenius AI",
+  "description": "Learn Smarter, Faster, Better — Bilingual Bengali and English AI learning platform by Apex Edutech Labs for concept explanations, smart MCQ quizzes, and 24/7 AI tutoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
